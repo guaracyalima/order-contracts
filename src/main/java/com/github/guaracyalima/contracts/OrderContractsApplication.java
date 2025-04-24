@@ -1,4 +1,4 @@
-package br.com.zeroth.contracts;
+package com.github.guaracyalima.contracts;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

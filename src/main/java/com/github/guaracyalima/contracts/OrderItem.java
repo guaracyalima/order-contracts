@@ -1,4 +1,4 @@
-package br.com.zeroth.contracts;
+package com.github.guaracyalima.contracts;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
